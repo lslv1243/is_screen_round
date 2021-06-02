@@ -1,6 +1,7 @@
 package com.example.is_screen_round
 
 import androidx.annotation.NonNull
+import android.content.res.Configuration
 
 import io.flutter.embedding.engine.plugins.FlutterPlugin
 import io.flutter.plugin.common.MethodCall
